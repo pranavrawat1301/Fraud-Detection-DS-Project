@@ -25,5 +25,3 @@ This project focuses on detecting fraudulent transactions using a dataset from K
    - Achieved a high accuracy score of 98% on the test set, demonstrating the effectiveness of the model in identifying fraudulent transactions.
 
 This project showcases a comprehensive approach to fraud detection, utilizing data cleaning, feature engineering, and advanced modeling techniques to achieve accurate results.
-
-Feel free to explore the dataset and code to gain insights into fraud detection and model development.
