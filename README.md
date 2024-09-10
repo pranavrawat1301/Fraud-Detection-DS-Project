@@ -1,5 +1,7 @@
 ### Summary
 
+---
+
 This project focuses on detecting fraudulent transactions using a dataset from Kaggle, available at [Fraud Detection Dataset](https://www.kaggle.com/datasets/pranavrawat1301/fraud-detection). The dataset includes various features related to transactions, such as amounts, balances, and transfer percentages.
 
 #### Key Steps:
